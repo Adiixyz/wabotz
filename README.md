@@ -1,4 +1,9 @@
 # WHATSAPP BOT
+
+<p align="center">
+	<img src="https://telegra.ph/file/2758c1f4c852cd7d1f206.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 # SC BY 
 * [`ariffb25`](https://github.com/ariffb25)
 
@@ -50,5 +55,5 @@ global.multiplier = 69 // The higher, The harder levelup
 `global.author` Your author for sticker
 `global.multiplier` When higher, Hardest to level up
 
-# Thanks To
-* [`Ariffb`](https://github.com/ariffb25)
+ # Thanks To
+* [`ariffb`](https://github.com/ariffb25)
