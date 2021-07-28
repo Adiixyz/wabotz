@@ -36,18 +36,9 @@ global.owner = []
 global.mods = [] 
 global.prems = [] 
 
-global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-}
-
 // Sticker WM
-global.packname = 'I hope you\'re fine'
-global.author = 'Nurutomo'
+global.packname = 'Whatsapp Bot'
+global.author = 'wabotz'
 
 global.multiplier = 69 // The higher, The harder levelup
 ```
@@ -55,5 +46,9 @@ global.multiplier = 69 // The higher, The harder levelup
 `global.owner` Put your owner number
 `global.mods` Moderator number
 `global.prems` Put number for premium
+`global.packname` Your packname for sticker
+`global.author` Your author for sticker
+`global.multiplier` When higher, Hardest to level up
 
-# APIKEYS
+# Thanks To
+* [`Ariffb`](https://github.com/ariffb25)
